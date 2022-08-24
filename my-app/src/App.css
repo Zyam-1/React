@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+  
 }
+ .navList {
+  color: white;
+  margin: 0;
+  padding: 0;
+  background-color: #282c34;
+display: flex;
+justify-content: right;
+flex-wrap: wrap;
+gap: 150px;
+list-style-type: none;
+font-size: 30px;
+ }
