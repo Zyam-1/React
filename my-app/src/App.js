@@ -8,7 +8,7 @@ function App() {
 
 
 <>
-<Navbar title = "Text"/>
+<Navbar title = "Text" HomeText = "House" LinkText = "Connection" DropDownMenuText = "DropDown Menu" SearchBtn = "Enter"/>
 </>
   
   );
